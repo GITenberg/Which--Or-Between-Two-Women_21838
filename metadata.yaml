@@ -1,0 +1,32 @@
+_repo: Which--Or-Between-Two-Women_21838
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kendall, Laura E.
+    gutenberg_agent_id: '5113'
+    url: http://www.gutenberg.org/2009/agents/5113
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Ernest
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '24919'
+    url: http://www.gutenberg.org/2009/agents/24919
+description: ''
+gutenberg_issued: '2007-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PQ'
+title: Which? Or, Between Two Women
+url: http://www.gutenberg.org/ebooks/21838
